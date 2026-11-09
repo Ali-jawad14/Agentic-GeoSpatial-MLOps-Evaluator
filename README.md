@@ -73,11 +73,7 @@ The autonomous evaluation loop generates reports formatted as follows:
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run
 
-Clone the repository and run the evaluator script directly:
-
-```bash
-git clone [https://github.com/Ali-jawad14/agentic-geospatial-mcp-evaluator.git](https://github.com/Ali-jawad14/agentic-geospatial-mcp-evaluator.git)
-cd agentic-geospatial-mcp-evaluator
-python main.py
+1. Open `Agentic_GeoSpatial_MLOps_Evaluator.ipynb` in **Google Colab** or **Jupyter Notebook**.
+2. Run all cells to execute the tool suite and auto-generate `ML_Evaluation_Report.md`.
